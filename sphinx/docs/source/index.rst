@@ -8,6 +8,10 @@ Ingeniería en Computación
 
 Aquí encontrarás toda la información sobre la carrera de ``Ingeniería en Computación``
 
+Contenidos
+----------
+.. toctree::
+    general
 
 .. toctree::
    :maxdepth: 2
